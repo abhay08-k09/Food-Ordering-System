@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": "../javascript"
+		},
+		{
+			"path": "../vs code/java"
+		},
+		{
+			"path": "../vs code/C Files"
+		},
+		{
+			"path": "../vs code/Foodie"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"cmath": "c",
+			"stdio.h": "c",
+			"iostream": "cpp",
+			"random": "cpp",
+			"array": "cpp",
+			"tuple": "cpp",
+			"utility": "cpp",
+			"deque": "cpp",
+			"string": "cpp",
+			"vector": "cpp"
+		}
+	}
+}
