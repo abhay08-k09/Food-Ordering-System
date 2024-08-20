@@ -47,5 +47,10 @@ cd Food-Ordering-System
 - Add items to your cart, adjust quantities, or remove items as needed.
 - Review your order summary and place your order.
 
+## 📸 Screenshots
+
+<img src="https://github.com/abhay08-k09/Food-Ordering-System/blob/main/Demo/tb%201.png" width="90%" />
+
+<img src="https://github.com/abhay08-k09/Food-Ordering-System/blob/main/Demo/tb%202.png" width="90%" />
 
 Feel free to reach out if you have any queries or need assistance with the project.
